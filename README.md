@@ -1,5 +1,6 @@
-# Counter-Strike
-Machine learning com um dataset do counter-strike
+<h1 align="center">Counter-Strike</h1>
+
+<h3 align="center">Machine learning com um dataset do counter-strike</h3>
 
 ## Autor
 Feito por [@fernandogong](https://github.com/fernandogong).
