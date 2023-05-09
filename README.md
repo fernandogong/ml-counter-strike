@@ -1,4 +1,4 @@
-# ml-counter-strike
+# Counter-Strike
 Machine learning com um dataset do counter-strike
 
 ## Autor
